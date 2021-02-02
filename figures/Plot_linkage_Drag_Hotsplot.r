@@ -3,7 +3,7 @@ library(karyoploteR)
 library(BSgenome.Osativa.MSU.MSU7)
 library(viridis)
 
-setwd("C:\\0Analysis_Research\\Rice_Breeding_Navigation\\Supplementary_Figure_plot\\SubFigure5_linkage_drag_hotspot")
+setwd("path_to_dir")
 pdf("Chr7-12.LinkageDrag_hotspot_plot.pdf",10,5)
 pp <- getDefaultPlotParams(plot.type = 4)
 pp$data1inmargin <- 0

@@ -1,7 +1,7 @@
 library(pheatmap)
 library(RColorBrewer)
 
-setwd("C:\\0Analysis_Research\\Rice_Breeding_Navigation\\Aim1_Genotyping\\Figure_plotting\\Causal_Allele_Heatmap\\Final_Order_Causal_Site_Genotypes\\Final_322_ungeno_plot\\directional_Var_heatmap_plot")
+setwd("path_to_dir")
 matrix <- read.table("CausalHeatmap.matrix",header = TRUE,sep="\t")
 
 

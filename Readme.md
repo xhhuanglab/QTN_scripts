@@ -1,1 +1,1 @@
-Custom scripts and pipelines used in the manuscript "A quantitative genomics map of rice provides genetic insights and guides breeding" by Wei et al. (2020).
+Custom scripts and pipelines used in the manuscript "A quantitative genomics map of rice provides genetic insights and guides breeding" by Wei et al. (2021) Nature Genetics. [[link](https://www.nature.com/articles/s41588-020-00769-9)]

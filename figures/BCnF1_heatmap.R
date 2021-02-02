@@ -1,7 +1,7 @@
 library(pheatmap)
 library(RColorBrewer)
 
-setwd("C:\\0Analysis_Research\\Rice_Breeding_Navigation\\Supplementary_Figure_plot\\correctness_percentage\\population_level")
+setwd("path_to_dir")
 #matrix <- read.table("filtered.trans.BC1F1_all_final_500.raw_geno",header = TRUE,sep="\t")
 #matrix <- read.table("filtered.trans.BC2F1_all_final_1300.raw_geno",header = TRUE,sep="\t")
 #matrix <- read.table("filtered.trans.BC3F1_all_final_1800.raw_geno",header = TRUE,sep="\t")
